@@ -1,3 +1,5 @@
+https://dzone.com/articles/transaction-synchronization-and-spring-application
+
 The aim of this article is to explain how  @TransactionalEventListener  works, how it differs from a simple  @EventListener, and finally - what are the threats that we should take into account before using it. Giving a real-life example, I will mainly focus on transaction synchronization issues, not paying too much attention neither to consistency nor application event reliability. A complete SpringBoot project with described examples can be found here.
 
 Example overview
